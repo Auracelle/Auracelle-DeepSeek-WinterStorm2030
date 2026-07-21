@@ -1,0 +1,15 @@
+[theme]
+base="dark"
+primaryColor="#4fc3f7"
+backgroundColor="#0a1a2a"
+secondaryBackgroundColor="#1a3a4a"
+textColor="#e3f2fd"
+font="sans serif"
+
+[server]
+maxUploadSize=10
+enableXsrfProtection=true
+enableCORS=false
+
+[browser]
+gatherUsageStats=false
